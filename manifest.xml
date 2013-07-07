@@ -1,0 +1,15 @@
+<package>
+  <description brief="test_dynamixel">
+
+     test_dynamixel
+
+  </description>
+  <author>youbot</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/test_dynamixel</url>
+  <depend package="dynamixel_controllers"/>
+
+</package>
+
+
